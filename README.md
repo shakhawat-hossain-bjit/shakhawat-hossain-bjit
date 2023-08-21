@@ -7,6 +7,11 @@
 
 I am a learner and a very passionate Web Developer. I love exploring new technology and doing teamwork. Accepting mistakes and working on them is my strength. I have a strong foundation in coding, and I'm constantly learning new technologies to stay up-to-date with the latest trends.
 
+
+## 🎓 Education
+- Mawlana Bhashani Science and Technology University, [B.Sc. (Engg.)  in Computer Science ], [January, 2023]
+
+
 ## 👨🏽‍💻 What I'm working on
 Currently, I am working on MERN Stack Web Development with REACT, NodeJS, ExpressJS and MongoDB at BJIT Academy.
 
@@ -35,7 +40,7 @@ I'm currently learning ReactJS, NodeJS, ExpressJS and MongoDB to improve my deve
 [![trophy](https://github-profile-trophy.vercel.app/?username=shakhawat-hossain-bjit&theme=dark_lover&no-bg=true&no-frame=true&layout=compact)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-### ?? Random Dev Quote
+### 🧠 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
