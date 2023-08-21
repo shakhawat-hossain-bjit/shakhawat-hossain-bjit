@@ -1,4 +1,4 @@
-![]([https://img.freepik.com/free-vector/development-typographic-header-presenting-content-web-pages-website-layout-composition-color-development-idea-computer-technology-flat-vector-illustration_613284-2493.jpg?w=2000&t=st=1692281384~exp=1692281984~hmac=41f0592a31232aa1e29b4bf409b354898c5de669e0a0f1476c6354447f130caa](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif))
+![](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=F70E0E¢er=true&vCenter=true&height=40&lines=Competitive+Programmer;Full+Stack+Software+Engineer)](https://git.io/typing-svg)
