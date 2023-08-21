@@ -10,7 +10,7 @@ I am a learner and a very passionate Web Developer. I love exploring new technol
 
 
 ## 🎓 Education
-- Mawlana Bhashani Science and Technology University, [B.Sc. (Engg.)  in Computer Science ], [January, 2023]
+Mawlana Bhashani Science and Technology University, [B.Sc. (Engg.)  in Computer Science ], [January, 2023]
 
 
 ## 👨🏽‍💻 What I'm working on
@@ -23,7 +23,7 @@ I'm currently learning ReactJS, NodeJS, ExpressJS and MongoDB to improve my deve
 - <b>Topics : </b> Software Development, Web Development, Competetive Programming, Git and GitHub.
 - <b>Technologies : </b>ReactJS, NodeJS, ExpressJS, MySQL, MongoDB, HTML, CSS.
 
-## ? How to reach me
+##  How to reach me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px"> </h2>
 <p align="left">
 <a href="www.linkedin.com/in/shakhawat-hossain-shihab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uks1977" height="30" width="40" /></a>
 <a href="https://web.facebook.com/shakhawathossain.shihab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="uksaha" height="30" width="40" /></a>
