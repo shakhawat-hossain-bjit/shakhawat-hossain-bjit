@@ -28,9 +28,12 @@ I'm currently learning ReactJS, NodeJS, ExpressJS and MongoDB to improve my deve
 <a href="www.linkedin.com/in/shakhawat-hossain-shihab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uks1977" height="30" width="40" /></a>
 <a href="https://web.facebook.com/shakhawathossain.shihab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="uksaha" height="30" width="40" /></a>
 
-[![](https://visitcount.itsvg.in/api?id=shakhawat-hossain-bjit&icon=7&color=4)](https://visitcount.itsvg.in)
 
+<p align="left"> <img
+        src="https://komarev.com/ghpvc/?username=shakhawat-shihab&label=Profile%20views&color=0e75b6&style=flat"
+        alt="shakhawat-shihab" /> </p>
 
+        
 ### 🧑‍💻 Competitive Programming Profile:
 [![codeforces](https://img.shields.io/badge/codeforces-1c97d3?logo=codeforces&logoColor=white)](https://codeforces.com/profile/SHAKHAWAT_SHIHAB)  [![Leetcode](https://img.shields.io/badge/Leetcode-ff8a00?logo=leetcode&logoColor=white)](https://leetcode.com/shakhawat_shihab/) [![Codechef-](https://img.shields.io/badge/Codechef-be6530?logo=codechef&logoColor=white)](https://www.codechef.com/users/shakhawat_cse)<br/>
 
